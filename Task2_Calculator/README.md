@@ -18,4 +18,4 @@ This is a simple calculator app that performs basic arithmetic operations like:
 python Task2.py
 
 Demo
-C:\Users\bairi\OneDrive\Documents\internship vedio
+https://1drv.ms/v/c/e5ed25d3681be144/EeV1usrjbPFLvsaNIcNmSecBQaQqE_Qy1SI79HAVtzAQFg?e=HY7ihh
