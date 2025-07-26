@@ -22,5 +22,6 @@ This project is a *Password Generator* developed in Python. It allows users to g
 ```bash
 python task3.py
 
-**Demo**
-C:\Users\bairi\OneDrive\Desktop\vedio
+Demo
+https://1drv.ms/v/c/e5ed25d3681be144/EfkQ1RoCfcVOhr0aWEqxhKgBzVL8OqUXCK6wVGj6D9L4Ng?e=9qzEe9
+
